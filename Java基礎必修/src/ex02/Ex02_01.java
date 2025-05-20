@@ -8,5 +8,4 @@ public class Ex02_01 {
 		System.out.println("八進制10->"+010);
 		System.out.println("十六進制10->"+0x10);
 	}
-
 }
