@@ -1,1 +1,21 @@
+# Eclipse
 .metadata/
+.classpath
+.project
+.settings/
+
+# Java build
+bin/
+target/
+*.class
+
+# OS / IDE 特有檔案
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# VSCode (如果你也會用)
+.vscode/
+

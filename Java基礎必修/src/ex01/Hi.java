@@ -10,7 +10,5 @@ public class Hi {
 		String strName = scn.next();
 		System.out.println("Hi " + strName + "歡迎來到Java世界!");
 		scn.close();
-
 	}
-
 }
